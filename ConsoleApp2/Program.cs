@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace ConsoleApp_1_1
 {
     class Program
