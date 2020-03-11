@@ -2,7 +2,7 @@
 
 namespace ConsoleApp_1_1
 {
-    class Funk1
+    class Program
     {
         static double funct11(double c, double a, double x)
         {
